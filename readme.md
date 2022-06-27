@@ -1,1 +1,1 @@
-Logistic Regression for text classification using Wongnai dataset
+Text Classification using Wongnai Dataset
